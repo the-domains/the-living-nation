@@ -1,14 +1,26 @@
-layout_spectrum: 0.1845878
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.3727598
 color:
   saturation: 0.3578441
-  lightness: 0.1656207
   brandStrength: 0.8028674
+  lightness: 0.1656207
   brandColors:
-    - '#282827'
-    - '#FFFFF3'
-    - '#BD9B76'
-    - '#FFF19A'
-    - '#F17865'
+    - '#016E7F'
+    - '#E9F1B5'
+    - '#4BAC9B'
+    - '#F1FDF3'
+    - '#666D65'
   rhythmicContrast: 0.2202487
+layout_spectrum: 0
 name: THE LIVING NATION
