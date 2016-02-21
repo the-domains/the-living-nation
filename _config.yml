@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.3727598
 color:
   saturation: 0.3578441
   brandStrength: 0.8028674
-  lightness: 0.1656207
+  rhythmicContrast: 0.2202487
   brandColors:
     - '#016E7F'
     - '#E9F1B5'
     - '#4BAC9B'
     - '#F1FDF3'
     - '#666D65'
-  rhythmicContrast: 0.2202487
-layout_spectrum: 0
+  lightness: 0.1656207
+typography_spectrum: 0.1391231
+layout_spectrum: 0.02698145
 name: THE LIVING NATION
