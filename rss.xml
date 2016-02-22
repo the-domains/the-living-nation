@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[THE LIVING NATION]]></title>
         <description><![CDATA[THE LIVING NATION]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-living-nation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 00:07:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 00:07:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-living-nation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Triumph Motorräder | Triumph Motorcycles]]></title>
+            <description><![CDATA[<article><h1>Triumph Motorräder | Triumph Motorcycles</h1><p>Die offizielle Seite von Triumph Motorrad. Motorräder für das vollkommene Fahrerlebnis. Schauen Sie sich unser Sortiment an, finden Sie einen Händler oder buchen Sie noch heute eine Probefahrt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06000db8d69b6c16dac1f655d39eea06aef24b0d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-living-nation/triumph-motorrader-or-triumph-motorcycles/index.html</link>
+            <guid isPermaLink="false">4189bb82-d462-423b-abe1-d43d32c40715</guid>
+            <pubDate>Sun, 21 Feb 2016 23:58:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77d3d047-4c28-4a7d-8dd2-d18401676ffa.png">]]></description>
-            <link>undefined7e429803-1a55-4282-8884-d5796dcb7884/index.html</link>
+            <link>https://thegrid.ai/the-living-nation/7e429803-1a55-4282-8884-d5796dcb7884/index.html</link>
             <guid isPermaLink="false">7e429803-1a55-4282-8884-d5796dcb7884</guid>
             <pubDate>Sun, 21 Feb 2016 23:54:58 GMT</pubDate>
         </item>
